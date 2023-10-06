@@ -1,13 +1,11 @@
-<h3 align="left">Welcome 🌌, I'm Jovita Anderson</h3>
-As a third-year Computer Science student at the National University of Singapore (NUS), I'm on an exciting journey of discovery in the world of technology and software engineering.🔍
-
-
+<h3 align="left">Welcome 👋,</h3>
+As a third-year Computer Science student at the National University of Singapore (NUS), I'm on an journey of discovery in the world of technology and software engineering.🔍
 
 <img align="right" alt="Coding" width="350" src="https://github.com/jovitaanderson/jovitaanderson/assets/57339690/c8306447-0467-47c3-b5be-de44a7dd0aa3" autoplay>
 
 <h3 align="left">Behind the Keyboard 💻</h3>
 
-- 💡 I'm currently on a journey to explore the realms of app and web development, constantly sharpening my software development skills along the way. 🚀
+- 💡 I'm currently exploring the realms of app and web development and constantly sharpening my software development skills along the way. 🚀
 - 🌱 I thrive on curiosity and continuous learning, always on the lookout for the latest technologies and innovative solutions.
 - 🎯 My goal? To craft elegant code and build amazing digital experiences that leave a positive and meaningful impact on users' lives.
 - 💬 Let's chat! Reach me at [jovitaanderson15@gmail.com](mailto:jovitaanderson15@gmail.com) or find me on [LinkedIn](www.linkedin.com/in/jovita-anderson).
