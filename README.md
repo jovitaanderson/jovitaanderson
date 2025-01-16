@@ -1,5 +1,5 @@
 <h3 align="left">Welcome 👋,</h3>
-As a final year Computer Science student at the National University of Singapore (NUS), I'm on an journey of discovery in the world of technology and software engineering.🔍
+As a fresh graduate Computer Science student at the National University of Singapore (NUS), I'm on an journey of discovery in the world of technology and software engineering.🔍
 
 <img align="right" alt="Coding" width="350" src="https://github.com/jovitaanderson/jovitaanderson/assets/57339690/c8306447-0467-47c3-b5be-de44a7dd0aa3" autoplay>
 
